@@ -1,0 +1,9 @@
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\CourseProject.DAL.dll.config
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\CourseProject.DAL.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\CourseProject.DAL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.pdb
