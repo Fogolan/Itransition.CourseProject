@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseProject.WEB", "CourseProject\CourseProject.WEB.csproj", "{3DB660D0-F2CD-4C1C-9CE9-A95712E67332}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseProject.DAL", "..\CourseProject.DAL\CourseProject.DAL.csproj", "{E2A8A783-3B28-428A-8FBC-9A4B0022576C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseProject.DAL", "CourseProject.DAL\CourseProject.DAL.csproj", "{E2A8A783-3B28-428A-8FBC-9A4B0022576C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
