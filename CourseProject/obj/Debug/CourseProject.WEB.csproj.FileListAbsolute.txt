@@ -50,3 +50,4 @@ E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Antlr3.Ru
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Newtonsoft.Json.xml
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\obj\Debug\CourseProject.dll
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\obj\Debug\CourseProject.WEB.csprojResolveAssemblyReference.cache

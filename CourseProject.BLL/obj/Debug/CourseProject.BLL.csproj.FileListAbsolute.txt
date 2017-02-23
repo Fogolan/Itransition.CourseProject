@@ -1,0 +1,5 @@
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.BLL.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.BLL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.csprojResolveAssemblyReference.cache
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.pdb

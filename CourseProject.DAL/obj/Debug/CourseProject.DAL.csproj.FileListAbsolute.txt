@@ -7,3 +7,4 @@ E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.dll
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.csprojResolveAssemblyReference.cache

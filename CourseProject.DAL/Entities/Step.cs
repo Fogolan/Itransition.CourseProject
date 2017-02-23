@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace CourseProject.DAL.Entities
+﻿namespace CourseProject.DAL.Entities
 {
     public class Step
     {

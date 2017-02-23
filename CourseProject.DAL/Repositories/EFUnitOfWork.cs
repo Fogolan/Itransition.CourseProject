@@ -14,6 +14,11 @@ namespace CourseProject.DAL.Repositories
         private CommentRepository commentRepository;
         private TagRepository tagRepository;
 
+        public EFUnitOfWork(string connectionString)
+        {
+            db = new InstructionContext(connectionString);
+        }
+
         public IRepositoryGettable<Instruction> Instructions
         {
             get
