@@ -10,6 +10,9 @@ namespace CourseProject.BLL.App_Start
 
     using Ninject;
     using Ninject.Web.Common;
+    using Ninject.Modules;
+    using System.Configuration;
+    using CourseProject.BLL.Infrastructure;
 
     public static class NinjectWebCommon 
     {
