@@ -8,3 +8,13 @@ E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.dll
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.pdb
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.csprojResolveAssemblyReference.cache
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\CourseProject.DAL.dll.config
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\CourseProject.DAL.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\CourseProject.DAL.pdb
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.xml
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.csprojResolveAssemblyReference.cache
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.pdb

@@ -3,28 +3,35 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using CourseProject.BLL.Interfaces;
+using CourseProject.BLL.DTO;
+using CourseProject.Models;
+using AutoMapper;
+using CourseProject.BLL.Infrastructure;
 
 namespace CourseProject.Controllers
 {
     public class HomeController : Controller
     {
+        IInstractionService instructionService;
+        IMapper mapper;
+        public HomeController(IInstractionService serv)
+        {
+            instructionService = serv;
+            var config = new MapperConfiguration(cfg => {
+                cfg.CreateMap<InstructionDTO, InstructionViewModel>();
+            });
+            mapper = config.CreateMapper();
+        }
         public ActionResult Index()
         {
-            return View();
+            var instructions = mapper.Map<IEnumerable<InstructionDTO>, List<InstructionViewModel>>(instructionService.GetInstructions());
+            return View(instructions);
         }
-
-        public ActionResult About()
+        protected override void Dispose(bool disposing)
         {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            instructionService.Dispose();
+            base.Dispose(disposing);
         }
     }
 }
