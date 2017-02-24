@@ -5,7 +5,7 @@ using CourseProject.DAL.Entities;
 
 namespace CourseProject.DAL.Repositories
 {
-    class EFUnitOfWork : IDisposable, IUnitOfWork
+    public class EFUnitOfWork : IDisposable, IUnitOfWork
     {
         private InstructionContext db;
         private InstructionRepository instructionRepository;
