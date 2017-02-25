@@ -10,9 +10,9 @@ namespace CourseProject.DAL.Repositories
 {
     public class StepRepository : IRepositoryUpdatable<Step>
     {
-        private InstructionContext db;
+        private ApplicationContext db;
 
-        public StepRepository(InstructionContext context)
+        public StepRepository(ApplicationContext context)
         {
             this.db = context;
         }

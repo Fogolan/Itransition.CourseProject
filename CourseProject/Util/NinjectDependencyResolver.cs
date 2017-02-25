@@ -28,7 +28,8 @@ namespace CourseProject.Util
         }
         private void AddBindings()
         {
-            kernel.Bind<IInstractionService>().To<InstructionService>().InRequestScope();
+            kernel.Bind<IInstructionService>().To<InstructionService>().InRequestScope();
+            kernel.Bind<IUserService>().To<UserService>().InRequestScope();
         }
     }
 }

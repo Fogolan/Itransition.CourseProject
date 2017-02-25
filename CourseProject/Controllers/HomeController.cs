@@ -13,9 +13,9 @@ namespace CourseProject.Controllers
 {
     public class HomeController : Controller
     {
-        IInstractionService instructionService;
+        IInstructionService instructionService;
         IMapper mapper;
-        public HomeController(IInstractionService serv)
+        public HomeController(IInstructionService serv)
         {
             instructionService = serv;
             var config = new MapperConfiguration(cfg => {

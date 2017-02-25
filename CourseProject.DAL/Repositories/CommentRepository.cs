@@ -9,9 +9,9 @@ namespace CourseProject.DAL.Repositories
 {
     public class CommentRepository : IRepository<Comment>
     {
-        private InstructionContext db;
+        private ApplicationContext db;
 
-        public CommentRepository(InstructionContext context)
+        public CommentRepository(ApplicationContext context)
         {
             this.db = context;
         }

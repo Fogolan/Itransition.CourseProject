@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using AutoMapper;
 namespace CourseProject.BLL.Services
 {
-    public class InstructionService : IInstractionService
+    public class InstructionService : IInstructionService
     {
         IUnitOfWork Database { get; set; }
 

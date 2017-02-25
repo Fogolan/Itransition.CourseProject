@@ -3,9 +3,6 @@ E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.csprojResolveAssemblyReference.cache
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.dll
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.pdb
-E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.csprojResolveAssemblyReference.cache
-E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.dll
-E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.pdb
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.BLL.dll.config
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.BLL.dll
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.BLL.pdb
@@ -23,7 +20,9 @@ E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.dll
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Razor.dll
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\WebActivatorEx.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.DAL.pdb
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\AutoMapper.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
@@ -37,4 +36,11 @@ E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.xml
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.csprojResolveAssemblyReference.cache
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\obj\Debug\CourseProject.BLL.pdb
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.SqlServer.xml

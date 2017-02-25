@@ -9,9 +9,9 @@ namespace CourseProject.DAL.Repositories
 {
     public class TagRepository : IRepository<Tag>
     {
-        private InstructionContext db;
+        private ApplicationContext db;
 
-        public TagRepository(InstructionContext context)
+        public TagRepository(ApplicationContext context)
         {
             this.db = context;
         }

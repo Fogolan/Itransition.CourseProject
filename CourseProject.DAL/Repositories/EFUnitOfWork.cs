@@ -2,21 +2,30 @@
 using CourseProject.DAL.EF;
 using CourseProject.DAL.Interfaces;
 using CourseProject.DAL.Entities;
+using CourseProject.DAL.Identity;
+using System.Threading.Tasks;
+using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace CourseProject.DAL.Repositories
 {
     public class EFUnitOfWork : IDisposable, IUnitOfWork
     {
-        private InstructionContext db;
+        private ApplicationContext db;
         private InstructionRepository instructionRepository;
-        private UserRepository userRepository;
         private StepRepository stepRepository;
         private CommentRepository commentRepository;
         private TagRepository tagRepository;
+        private ApplicationUserManager userManager;
+        private ApplicationRoleManager roleManager;
+        private IClientManager clientManager;
 
         public EFUnitOfWork(string connectionString)
         {
-            db = new InstructionContext(connectionString);
+            db = new ApplicationContext(connectionString);
+            userManager = new ApplicationUserManager(new UserStore<ApplicationUser>(db));
+            roleManager = new ApplicationRoleManager(new RoleStore<ApplicationRole>(db));
+            clientManager = new ClientManager(db);
+
         }
 
         public IRepositoryGettable<Instruction> Instructions
@@ -26,16 +35,6 @@ namespace CourseProject.DAL.Repositories
                 if (instructionRepository == null)
                     instructionRepository = new InstructionRepository(db);
                 return instructionRepository;
-            }
-        }
-
-        public IRepositoryGettable<User> Users
-        {
-            get
-            {
-                if (userRepository == null)
-                    userRepository = new UserRepository(db);
-                return userRepository;
             }
         }
 
@@ -69,9 +68,38 @@ namespace CourseProject.DAL.Repositories
             }
         }
 
+        public ApplicationUserManager UserManager
+        {
+            get
+            {
+                return userManager;
+            }
+        }
+
+        public IClientManager ClientManager
+        {
+            get
+            {
+                return clientManager;
+            }
+        }
+
+        public ApplicationRoleManager RoleManager
+        {
+            get
+            {
+                return roleManager;
+            }
+        }
+
         public void Save()
         {
             db.SaveChanges();
+        }
+
+        public async Task SaveAsync()
+        {
+            await db.SaveChangesAsync();
         }
 
         #region IDisposable Support

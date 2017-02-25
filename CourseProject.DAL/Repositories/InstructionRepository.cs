@@ -10,11 +10,11 @@ namespace CourseProject.DAL.Repositories
 {
     public class InstructionRepository : IRepositoryGettable<Instruction>
     {
-        private InstructionContext db;
+        private ApplicationContext db;
 
-        public InstructionRepository(InstructionContext context)
+        public InstructionRepository(ApplicationContext context)
         {
-            this.db = context;
+            db = context;
         }
 
         public void Create(Instruction item)
