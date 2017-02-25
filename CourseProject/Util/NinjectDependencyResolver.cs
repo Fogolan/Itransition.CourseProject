@@ -4,6 +4,8 @@ using Ninject;
 using System.Collections.Generic;
 using System;
 using CourseProject.BLL.Interfaces;
+using Ninject.Web.Common;
+
 namespace CourseProject.Util
 {
     public class NinjectDependencyResolver : IDependencyResolver
@@ -26,7 +28,7 @@ namespace CourseProject.Util
         }
         private void AddBindings()
         {
-            kernel.Bind<IInstractionService>().To<InstructionService>();
+            kernel.Bind<IInstractionService>().To<InstructionService>().InRequestScope();
         }
     }
 }
