@@ -13,18 +13,13 @@ namespace CourseProject.Util
     {
         public static void ConfigureContainer()
         {
-            // получаем экземпляр контейнера
             var builder = new ContainerBuilder();
             builder.RegisterModule(new ServiceModule("DefaultConnection"));
-            // регистрируем контроллер в текущей сборке
             builder.RegisterControllers(typeof(MvcApplication).Assembly);
-            // регистрируем споставление типов
             builder.RegisterType<InstructionService>().As<IInstractionService>();
             builder.RegisterType<UserService>().As<IUserService>();
-            // создаем новый контейнер с теми зависимостями, которые определены выше
             var container = builder.Build();
 
-            // установка сопоставителя зависимостей
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
         }
     }
