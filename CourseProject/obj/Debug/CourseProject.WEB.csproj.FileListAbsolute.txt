@@ -136,3 +136,7 @@ E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.d
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.Integration.Mvc.dll
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.xml
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.Integration.Mvc.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Microsoft.AspNet.Identity.Core.xml

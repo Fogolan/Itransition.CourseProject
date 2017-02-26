@@ -1,5 +1,7 @@
 ﻿using CourseProject.DAL.Entities;
+using CourseProject.DAL.Identity;
 using System;
+using System.Threading.Tasks;
 
 namespace CourseProject.DAL.Interfaces
 {
@@ -10,7 +12,11 @@ namespace CourseProject.DAL.Interfaces
         IRepository<Tag> Tags { get; }
         IRepository<Comment> Comments { get; }
         IRepositoryGettable<User> Users { get; }
+        ApplicationUserManager UserManager { get; }
+        IClientManager ClientManager { get; }
+        ApplicationRoleManager RoleManager { get; }
 
+        Task SaveAsync();
         void Save();
     }
 }

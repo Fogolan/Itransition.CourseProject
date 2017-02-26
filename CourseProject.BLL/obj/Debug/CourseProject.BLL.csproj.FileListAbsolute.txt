@@ -64,3 +64,7 @@ E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.xml
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Autofac.dll
 E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Autofac.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml

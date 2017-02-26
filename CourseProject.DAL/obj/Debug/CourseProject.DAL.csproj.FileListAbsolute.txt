@@ -17,3 +17,7 @@ E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\bin\
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.csprojResolveAssemblyReference.cache
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.dll
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.DAL\obj\Debug\CourseProject.DAL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

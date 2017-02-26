@@ -19,29 +19,29 @@ namespace CourseProject.DAL.Repositories
 
         public void Create(User item)
         {
-            db.Users.Add(item);
+            db.UserNames.Add(item);
         }
 
         public void Delete(int id)
         {
-            User user = db.Users.Find(id);
+            User user = db.UserNames.Find(id);
             if (user != null)
-                db.Users.Remove(user);
+                db.UserNames.Remove(user);
         }
 
         public IEnumerable<User> Find(Func<User, bool> predicate)
         {
-            return db.Users.Where(predicate).ToList();
+            return db.UserNames.Where(predicate).ToList();
         }
 
         public User Get(int id)
         {
-            return db.Users.Find(id);
+            return db.UserNames.Find(id);
         }
 
         public IEnumerable<User> GetAll()
         {
-            return db.Users;
+            return db.UserNames;
         }
 
         public void Update(User item)

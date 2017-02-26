@@ -2,6 +2,9 @@
 using CourseProject.DAL.EF;
 using CourseProject.DAL.Interfaces;
 using CourseProject.DAL.Entities;
+using CourseProject.DAL.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using System.Threading.Tasks;
 
 namespace CourseProject.DAL.Repositories
 {
@@ -13,10 +16,16 @@ namespace CourseProject.DAL.Repositories
         private StepRepository stepRepository;
         private CommentRepository commentRepository;
         private TagRepository tagRepository;
+        private ApplicationUserManager userManager;
+        private ApplicationRoleManager roleManager;
+        private IClientManager clientManager;
 
         public EFUnitOfWork(string connectionString)
         {
             db = new InstructionContext(connectionString);
+            userManager = new ApplicationUserManager(new UserStore<ApplicationUser>(db));
+            roleManager = new ApplicationRoleManager(new RoleStore<ApplicationRole>(db));
+            clientManager = new ClientManager(db);
         }
 
         public IRepositoryGettable<Instruction> Instructions
@@ -67,6 +76,26 @@ namespace CourseProject.DAL.Repositories
                     tagRepository = new TagRepository(db);
                 return tagRepository;
             }
+        }
+
+        public ApplicationUserManager UserManager
+        {
+            get { return userManager; }
+        }
+
+        public IClientManager ClientManager
+        {
+            get { return clientManager; }
+        }
+
+        public ApplicationRoleManager RoleManager
+        {
+            get { return roleManager; }
+        }
+
+        public async Task SaveAsync()
+        {
+            await db.SaveChangesAsync();
         }
 
         public void Save()
