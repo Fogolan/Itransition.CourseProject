@@ -1,11 +1,10 @@
-﻿using Ninject.Modules;
+﻿using Autofac;
 using CourseProject.DAL.Interfaces;
 using CourseProject.DAL.Repositories;
-using System;
 
 namespace CourseProject.BLL.Infrastructure
 {
-    public class ServiceModule : NinjectModule
+    public class ServiceModule : Module
     {
         private string connectionString;
         public ServiceModule(string connection)
@@ -13,9 +12,10 @@ namespace CourseProject.BLL.Infrastructure
             connectionString = connection;
         }
 
-        public override void Load()
+        protected override void Load(ContainerBuilder builder)
         {
-            Bind<IUnitOfWork>().To<EFUnitOfWork>().WithConstructorArgument(connectionString);
+            builder.RegisterType<EFUnitOfWork>().As<IUnitOfWork>()
+                .WithParameter("connectionString", connectionString);
         }
     }
 }

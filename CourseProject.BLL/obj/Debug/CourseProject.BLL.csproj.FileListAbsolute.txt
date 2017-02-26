@@ -38,3 +38,29 @@ E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Razor.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.BLL.dll.config
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\AutoMapper.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.DAL.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.Helpers.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.Mvc.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.Razor.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\WebActivatorEx.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\CourseProject.DAL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\AutoMapper.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.Helpers.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.Mvc.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.Razor.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\EntityFramework.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Autofac.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject.BLL\bin\Debug\Autofac.xml

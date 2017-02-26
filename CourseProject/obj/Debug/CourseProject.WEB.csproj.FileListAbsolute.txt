@@ -121,3 +121,18 @@ E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject\bin\Ninj
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject\bin\Ninject.Web.Common.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject\bin\Ninject.Web.Mvc.xml
 E:\Programming\c#\asp.net mvc 5\Itransition.CourseProject\CourseProject\bin\CourseProject.DAL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\AutoMapper.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\CourseProject.BLL.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\EntityFramework.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\EntityFramework.SqlServer.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\WebActivatorEx.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\CourseProject.DAL.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\CourseProject.BLL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\AutoMapper.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\EntityFramework.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\EntityFramework.SqlServer.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\CourseProject.DAL.pdb
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.Integration.Mvc.dll
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.xml
+E:\Projects\C#\asp.netmvc5\Itransition.CourseProject\CourseProject\bin\Autofac.Integration.Mvc.xml
