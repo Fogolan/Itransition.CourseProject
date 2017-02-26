@@ -20,7 +20,7 @@ namespace CourseProject.Util
             builder.RegisterControllers(typeof(MvcApplication).Assembly);
             // регистрируем споставление типов
             builder.RegisterType<InstructionService>().As<IInstractionService>();
-
+            builder.RegisterType<UserService>().As<IUserService>();
             // создаем новый контейнер с теми зависимостями, которые определены выше
             var container = builder.Build();
 

@@ -16,6 +16,7 @@ namespace CourseProject.BLL.Infrastructure
         {
             builder.RegisterType<EFUnitOfWork>().As<IUnitOfWork>()
                 .WithParameter("connectionString", connectionString);
+            
         }
     }
 }
